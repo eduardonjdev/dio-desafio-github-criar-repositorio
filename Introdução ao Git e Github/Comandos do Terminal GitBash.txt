@@ -1,0 +1,8 @@
+Comando para clonar repositório github pelo GitBash:
+git clone https://github.com/eduardonjdev/dio-desafio-github-criar-repositorio.git
+
+Verificar Repositório:
+git status
+
+Adicioanr arquivos no controle de versão Local:
+git add . ou git add -A
