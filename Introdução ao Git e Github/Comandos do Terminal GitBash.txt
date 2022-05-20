@@ -1,8 +1,17 @@
 Comando para clonar repositório github pelo GitBash:
 git clone https://github.com/eduardonjdev/dio-desafio-github-criar-repositorio.git
 
+Configurar email Autor terminal Git Bash
+git config --global user.email "eduardonjdev@gmail.com"
+
 Verificar Repositório:
 git status
 
 Adicioanr arquivos no controle de versão Local:
 git add . ou git add -A
+
+Enviar commit com comentário:
+git commit -m "Inclusão das anotações do curso de Git/GitHub"
+
+Mandar Commit Local Para Nuvem:
+git push origin main
